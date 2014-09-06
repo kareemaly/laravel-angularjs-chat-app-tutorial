@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f9a139c-5f82-4679-8bb8-289b86e2a8d8" name="Default" comment="" />
+    <ignored path="chat-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="chat-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MessageController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/MessageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="739" selection-end="739" vertical-scroll-proportion="0.5557522" vertical-offset="315" max-vertical-offset="901">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server.php" />
+        <option value="$PROJECT_DIR$/bootstrap/start.php" />
+        <option value="$PROJECT_DIR$/app/config/local/database.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_09_05_225202_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_09_05_225218_create_chat_rooms_table.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2014_09_05_225232_create_messages_table.php" />
+        <option value="$PROJECT_DIR$/app/models/Mesasge.php" />
+        <option value="$PROJECT_DIR$/app/models/ChatRoom.php" />
+        <option value="$PROJECT_DIR$/app/models/User.php" />
+        <option value="$PROJECT_DIR$/app/controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/MessageController.php" />
+        <option value="$PROJECT_DIR$/app/database/seeds/UserSeeder.php" />
+        <option value="$PROJECT_DIR$/app/controllers/ChatRoomController.php" />
+        <option value="$PROJECT_DIR$/app/models/Message.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seeds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f9a139c-5f82-4679-8bb8-289b86e2a8d8" name="Default" comment="" />
+      <created>1409957064375</created>
+      <updated>1409957064375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32520324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/MessageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="40" selection-start="859" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/MessageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="5" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ChatRoomController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/local/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7246892" vertical-offset="408" max-vertical-offset="3400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="473" selection-end="473" vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="31" selection-start="931" selection-end="931" vertical-scroll-proportion="0.5133215" vertical-offset="34" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/local/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="830" selection-end="830" vertical-scroll-proportion="0.3623446" vertical-offset="255" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_09_05_225202_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.60390764" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_09_05_225218_create_chat_rooms_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.5435169" vertical-offset="0" max-vertical-offset="680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_09_05_225232_create_messages_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="67" selection-start="472" selection-end="472" vertical-scroll-proportion="0.60390764" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="49" selection-start="703" selection-end="703" vertical-scroll-proportion="0.8152753" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/ChatRoom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="40" selection-start="216" selection-end="397" vertical-scroll-proportion="0.3623446" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="77" selection-end="77" vertical-scroll-proportion="0.15097691" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/UserSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="493" selection-end="493" vertical-scroll-proportion="0.67836255" vertical-offset="108" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="37" selection-start="206" selection-end="210" vertical-scroll-proportion="0.33570158" vertical-offset="15" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="95" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.5645757" vertical-offset="0" max-vertical-offset="542" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="331" selection-end="331" vertical-scroll-proportion="0.60390764" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="173" selection-end="173" vertical-scroll-proportion="0.39253998" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ChatRoomController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.5737122" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/MessageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="739" selection-end="739" vertical-scroll-proportion="0.5557522" vertical-offset="315" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

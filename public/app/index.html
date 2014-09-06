@@ -1,0 +1,26 @@
+<html>
+	
+	<head>
+		<link rel="stylesheet" href="libs/bootstrap/dist/css/bootstrap.min.css">
+	</head>
+
+	<body ng-app="chatApp">
+
+		<div class="page-header">
+			<h1> Chat application </h1>
+		</div>
+		
+		<div ng-view class="container"></div>
+
+		<script src="libs/angular/angular.min.js"></script>
+		<script src="libs/angular-route/angular-route.min.js"></script>
+
+		<script src="scripts/app.js"></script>
+		<script src="scripts/controllers/chat-rooms.js"></script>
+		<script src="scripts/controllers/chat-room.js"></script>
+
+		<script src="scripts/services/message.js"></script>
+		<script src="scripts/services/chat-room.js"></script>
+		<script src="scripts/services/webservice.js"></script>
+	</body>
+</html>
